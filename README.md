@@ -24,4 +24,4 @@ Uncovered revenue trends, top-performing categories, regional performance, and d
 -/Data `dashboard_screenshot.png` — Dashboard preview
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](data/final.png)
