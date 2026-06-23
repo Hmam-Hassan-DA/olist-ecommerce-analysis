@@ -16,8 +16,11 @@ Uncovered revenue trends, top-performing categories, regional performance, and d
 - Excel — Data preparation
 
 ## Files
+
 -/Data `olist_cleaning.ipynb` — Data cleaning notebook
+
 -/Data `olist_dashboard_data.xlsx` — Processed data
+
 -/Data `dashboard_screenshot.png` — Dashboard preview
 
 ## Dashboard Preview
