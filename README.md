@@ -4,6 +4,9 @@
 Analysis of 110,000+ orders from Olist, Brazil's largest e-commerce platform (2016–2018).
 Uncovered revenue trends, top-performing categories, regional performance, and delivery issues.
 
+## 📊 Dashboard Preview
+![Dashboard Preview](./dashboard_screenshot.png)
+
 ## Key Insights
 - **Total Revenue:** $19.77M across 110K orders
 - **Top Category:** Bed & Bath (cama_mesa_banho) — $1.69M revenue
@@ -15,13 +18,16 @@ Uncovered revenue trends, top-performing categories, regional performance, and d
 - Power BI — Interactive dashboard
 - Excel — Data preparation
 
-## Files
+## 📁 Repository Structure & Quick Links
 
--/Data `olist_cleaning.ipynb` — Data cleaning notebook
+### 📊 Visualizations & Reports
+*   🖼️ **Main Dashboard:** [dashboard_screenshot.png](./dashboard_screenshot.png)
+*   📈 **Monthly Sales Trends:** [monthly_sales.png](./monthly_sales.png)
+*   🏆 **Top Categories Analysis:** [top_categories.png](./top_categories.png)
+*   🗺️ **Regional Performance:** [top_states.png](./top_states.png)
+*   🚚 **Logistics & Delivery:** [delivery_distribution.png](./delivery_distribution.png)
 
--/Data `olist_dashboard_data.xlsx` — Processed data
-
--/Data `dashboard_screenshot.png` — Dashboard preview
-
-## Dashboard Preview
-![Dashboard](data/final.png)
+### 💻 Code & Data Directories
+*   📂 **[Scripts/](./Scripts/)** — Contains the Python data cleaning notebook (`olist_cleaning.ipynb`).
+*   📂 **[Data/](./Data/)** — Contains the processed Excel dataset (`olist_dashboard_data.xlsx`).
+*   📂 **[Dashboard/](./Dashboard/)** — Dashboard folder directory.
