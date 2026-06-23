@@ -1,5 +1,10 @@
 # Olist E-commerce Sales Dashboard
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Dataset](https://img.shields.io/badge/Dataset-110K%20Orders-orange)
+
 ## Project Overview
 Analysis of 110,000+ orders from Olist, Brazil's largest e-commerce platform (2016–2018).
 Uncovered revenue trends, top-performing categories, regional performance, and delivery issues.
@@ -12,6 +17,12 @@ Uncovered revenue trends, top-performing categories, regional performance, and d
 - **Top Category:** Bed & Bath (cama_mesa_banho) — $1.69M revenue
 - **Top State:** São Paulo (SP) — $7.4M (37% of total revenue)
 - **Delivery Problem:** 4,558 orders delayed +30 days (4.1%) — requires logistics review
+
+## Business Recommendations
+- **Inventory:** Increase stock for Bed & Bath — highest revenue category ($1.69M)
+- **Logistics:** Investigate 4,558 delayed orders — direct impact on customer reviews
+- **Expansion:** Focus marketing on RJ & MG — high potential vs SP dominance (37%)
+
 
 ## Tools Used
 - Python (Pandas) — Data cleaning & EDA
@@ -31,3 +42,6 @@ Uncovered revenue trends, top-performing categories, regional performance, and d
 *   📂 **[Scripts/](./Scripts/)** — Contains the Python data cleaning notebook (`olist_cleaning.ipynb`).
 *   📂 **[Data/](./Data/)** — Contains the processed Excel dataset (`olist_dashboard_data.xlsx`).
 *   📂 **[Dashboard/](./Dashboard/)** — Dashboard folder directory.
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hmam%20Hassan-blue)](https://www.linkedin.com/in/hmam-hassan-627b2b109/)
